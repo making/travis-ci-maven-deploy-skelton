@@ -1,4 +1,4 @@
-# travis-ci-maven-deploy-skelton
+# How to deploy to Maven Central by Travis CI
 
 
 ``` console
